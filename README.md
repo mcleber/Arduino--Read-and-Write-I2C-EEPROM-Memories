@@ -1,5 +1,5 @@
 # Escrever e Ler Memórias EEPROM I2C
-Old project: 12/16/2013
+Old project: 2013
 
 ## Read and Write I2C EEPROM Memories
 
