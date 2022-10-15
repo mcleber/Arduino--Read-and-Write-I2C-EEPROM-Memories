@@ -1,4 +1,6 @@
 # Escrever e Ler Memórias EEPROM I2C
+Old project: 12/16/2013
+
 ## Read and Write I2C EEPROM Memories
 
 Aqui iremos escrever e ler em duas memórias EEPROM (Electrically Erasable Programmable Read-Only Memory) utilizando o barramento I2C (Inter-Integrated Circuit) do Arduino.
