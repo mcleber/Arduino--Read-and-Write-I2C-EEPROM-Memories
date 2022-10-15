@@ -30,3 +30,7 @@ Note que pelo código fonte disponibilizado, estamos escrevendo os endereços 0x
 [Datasheet 24LC256](http://ww1.microchip.com/downloads/en/devicedoc/21203m.pdf)
 
 [Arduino Wire Library](https://www.arduino.cc/reference/en/language/functions/communication/wire/)
+
+[Arduino](https://www.arduino.cc)
+
+[Fritzing](https://fritzing.org)
